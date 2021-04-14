@@ -5,13 +5,13 @@ import (
 	"log"
 	"os"
 
-	"github.com/JeffreyVdb/upperprinter/pkg/printerz"
+	"github.com/JeffreyVdb/printutils"
 )
 
 func main() {
 	scanner := bufio.NewScanner(os.Stdin)
 	for scanner.Scan() {
-		printerz.FPrintUpper(os.Stdout, scanner.Text())
+		printutils.FPrintDouble(os.Stdout, scanner.Text())
 	}
 
 	if err := scanner.Err(); err != nil {
