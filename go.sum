@@ -1,2 +1,5 @@
 github.com/JeffreyVdb/printutils v0.0.0-20210414063915-94073505d32c h1:eaxlTLLvtl7YQyL5+Hwry9MDO4lBsXx+dpPtdh8eOuA=
 github.com/JeffreyVdb/printutils v0.0.0-20210414063915-94073505d32c/go.mod h1:ehJW92Prr/33nz0ZOPtXVGayIEnEb20JdXdW0acDXBE=
+github.com/JeffreyVdb/printutils v1.0.0 h1:InbIN+TusZELfVpIWhXnU3VV7tHtC16z3MkgYOlrbFs=
+github.com/JeffreyVdb/printutils v1.0.0/go.mod h1:OW5O7ex+nTO4faX0abYS0Jiwe5f10hijvvVmt5ejRQE=
+github.com/JeffreyVdb/upperprinter v0.0.0-20210414063430-c1fad99e3784/go.mod h1:/uRCjrH73tsQ6Q4o0osQY6OwYzF9sdjckmDlSp9xYa0=
